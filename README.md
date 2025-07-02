@@ -65,6 +65,4 @@ Sourceduty recommends and uses the google/gemma-2-2b-GGUF model, a compact yet p
 
 This Book is a Custom GPT
 ===============================================
-Print an up-to-date version of the Sourceduty GPT Guide using ChatGPT
-<br>
-[Link](https://chatgpt.com/g/g-6864b324e1988191b9622fb9cfa8330e-sourceduty-gpt-guide)
+Print an up-to-date version of the Sourceduty GPT Guide using [ChatGPT](https://chatgpt.com/g/g-6864b324e1988191b9622fb9cfa8330e-sourceduty-gpt-guide)
