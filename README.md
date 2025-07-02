@@ -37,6 +37,7 @@ Prompt Engineering
 
 Prompt engineering for custom GPTs is a critical aspect of optimizing AI responses to ensure they are both accurate and contextually relevant. At its core, prompt engineering involves carefully designing the input queries that are fed into the GPT model, tailoring them to elicit specific, high-quality outputs. For custom GPTs, this means constructing prompts that align with the goals of the system—whether that’s providing detailed customer support, generating creative content, or offering technical guidance. The process begins by understanding the desired outcome and the audience’s needs, then formulating prompts that are clear, specific, and capable of guiding the model to produce responses that are both precise and useful. Effective prompt engineering also includes experimenting with different phrasing, context inclusion, and query structures to see what generates the best performance from the GPT. It may involve iterating through a variety of prompts to fine-tune the model's behavior, taking into account how it interprets instructions and how it can be prompted to improve in accuracy, tone, and delivery. Additionally, advanced techniques like incorporating variables, conditional logic, and feedback loops can be used to create more adaptive and personalized responses.
 
+```
 Alex's Favorite Prompts:
  
 Print a cheat sheet for this custom GPT.
@@ -55,6 +56,7 @@ Print as a plain text code block in paragraphs without using numbers or point fo
 Redo with perfect spelling.
 Print a hierarchal abstraction topology diagram of...
 Analyze this simulation.
+```
 
 Offline GPTs 
 ===============================================
