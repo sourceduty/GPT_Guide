@@ -31,6 +31,11 @@ There are easy-to-make custom GPTs which can significantly enhance user engageme
 
 Another accessible approach to building custom GPTs is by creating a lite version of your web app or software. This can be particularly useful for users who need basic functionality without the complexity of the full version. For example, you could design a simplified version of your web app that focuses on one or two core features, making it more user-friendly for casual or novice users. A custom GPT built for this lite version could act as a guide, helping users understand how to use the app effectively, answer technical questions, and troubleshoot issues. Lastly, making a book into a custom GPT offers a unique way to turn written content into an interactive, conversational experience. By transforming the contents of a book—be it a fiction novel, non-fiction guide, or technical manual—into a custom GPT, readers can ask the AI questions about the book’s themes, characters, or information. This GPT can provide in-depth explanations, summarize chapters, or even suggest real-life applications of the book’s content. Creating such custom GPTs is a fun, creative way to breathe new life into books and make them more accessible and engaging for readers, turning static text into a dynamic and interactive learning or entertainment tool.
 
+<br>
+
+![Decorate](https://github.com/user-attachments/assets/b198dd47-54ce-4f6e-b78d-cbe1398b45ea)
+
+Decorating with store-bought items is a simple and accessible way to elevate the look of almost anything in your home or workspace. Whether it’s adding throw pillows, vases, and picture frames to a living room, or enhancing a desk with trendy organizers and potted plants, the options are endless. A few carefully chosen pieces from your local store can transform an otherwise dull space. Incorporating items that reflect your personal style, like vibrant rugs, stylish lamps, or decorative bowls, can also make a room feel more cohesive and welcoming. The beauty of store-bought decor lies in its affordability and versatility, making it easy to update and experiment with different styles as trends evolve.
 
 Prompt Engineering
 ===============================================
